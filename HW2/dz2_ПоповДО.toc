@@ -1,0 +1,17 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Введение}{3}% 
+\contentsline {section}{\numberline {2}Постановка задачи}{3}% 
+\contentsline {section}{\numberline {3}Описание данных}{4}% 
+\contentsline {section}{\numberline {4}Обзор существующих решений}{4}% 
+\contentsline {subsection}{\numberline {4.1}ADMIXTURE}{4}% 
+\contentsline {subsection}{\numberline {4.2}EIGENSTRAT}{5}% 
+\contentsline {subsection}{\numberline {4.3}sNMF}{5}% 
+\contentsline {subsection}{\numberline {4.4}Итог}{5}% 
+\contentsline {section}{\numberline {5}Теоретические сведения из генетики}{5}% 
+\contentsline {section}{\numberline {6}Описание решения}{6}% 
+\contentsline {subsection}{\numberline {6.1}Локальная линейная модель}{6}% 
+\contentsline {subsection}{\numberline {6.2}Локальная линейная модель с классификацией по популяциям}{7}% 
+\contentsline {subsection}{\numberline {6.3}Локальный ближайший центроид}{7}% 
+\contentsline {section}{\numberline {7}Дизайн эксперимента}{7}% 
+\contentsline {section}{\numberline {8}Результаты эксперимента}{8}% 
+\contentsline {section}{\numberline {9}Заключение}{8}% 
